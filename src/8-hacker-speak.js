@@ -1,3 +1,4 @@
 export const hackerSpeak = (words) => {
-  return words
+  return words.replace(/a, 4).
+  
 }
